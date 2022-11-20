@@ -1,4 +1,4 @@
-package com.starters.hsge.presentation.ui.home
+package com.starters.hsge.presentation.ui.main.home
 
 import android.os.Bundle
 import android.view.View

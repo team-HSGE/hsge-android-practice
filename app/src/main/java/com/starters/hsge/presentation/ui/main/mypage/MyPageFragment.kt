@@ -1,12 +1,12 @@
-package com.starters.hsge.presentation.ui.chat
+package com.starters.hsge.presentation.ui.main.mypage
 
 import android.os.Bundle
 import android.view.View
 import com.starters.hsge.R
-import com.starters.hsge.databinding.FragmentChatBinding
+import com.starters.hsge.databinding.FragmentMyPageBinding
 import com.starters.hsge.presentation.common.base.BaseFragment
 
-class ChatFragment : BaseFragment<FragmentChatBinding>(R.layout.fragment_chat) {
+class MyPageFragment : BaseFragment<FragmentMyPageBinding>(R.layout.fragment_my_page) {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)

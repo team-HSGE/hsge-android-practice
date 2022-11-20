@@ -1,4 +1,4 @@
-package com.starters.hsge.presentation.ui
+package com.starters.hsge.presentation.ui.main
 
 import android.os.Bundle
 import androidx.navigation.fragment.findNavController

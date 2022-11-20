@@ -1,12 +1,12 @@
-package com.starters.hsge.presentation.ui.find
+package com.starters.hsge.presentation.ui.main.chat
 
 import android.os.Bundle
 import android.view.View
 import com.starters.hsge.R
-import com.starters.hsge.databinding.FragmentFindBinding
+import com.starters.hsge.databinding.FragmentChatBinding
 import com.starters.hsge.presentation.common.base.BaseFragment
 
-class FindFragment : BaseFragment<FragmentFindBinding>(R.layout.fragment_find) {
+class ChatFragment : BaseFragment<FragmentChatBinding>(R.layout.fragment_chat) {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
