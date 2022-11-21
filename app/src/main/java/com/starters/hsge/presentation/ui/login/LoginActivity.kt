@@ -12,6 +12,5 @@ class LoginActivity : BaseActivity<ActivityLoginBinding>(R.layout.activity_login
 
         // 지금 여기 데이터바인딩 오류나고 있어요!!!!
         // 왜 아직도 안고치져..??!!
-        //에휴...
     }
 }
