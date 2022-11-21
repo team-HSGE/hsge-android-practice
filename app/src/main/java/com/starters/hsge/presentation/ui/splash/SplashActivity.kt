@@ -8,9 +8,9 @@ class SplashActivity {
 
     //jay_test1
     //jay_test2
+    //jay_test3
 
 
 
-
-    // 몰라요 어쩌라구요 나느 아무것도 모르는데 ㅠㅠ
+    // Nothing Something Anything
 }
