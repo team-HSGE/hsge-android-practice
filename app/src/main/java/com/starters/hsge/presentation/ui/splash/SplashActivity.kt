@@ -7,4 +7,5 @@ class SplashActivity {
     // 브랜치 만들어서 위치정보 기능 구현
 
     //jay_test1
+    //jay_test2
 }
