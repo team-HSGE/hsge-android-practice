@@ -10,5 +10,8 @@ class FindFragment : BaseFragment<FragmentFindBinding>(R.layout.fragment_find) {
 
     override fun onViewCreated(view: View, savedInstanceState: Bundle?) {
         super.onViewCreated(view, savedInstanceState)
+
     }
+
+
 }
