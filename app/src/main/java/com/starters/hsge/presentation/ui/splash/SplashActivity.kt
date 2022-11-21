@@ -7,4 +7,5 @@ class SplashActivity {
 
     //jay_test1
     //jay_test2
+    //jay_test3
 }
