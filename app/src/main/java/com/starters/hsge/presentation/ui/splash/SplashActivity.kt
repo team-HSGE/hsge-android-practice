@@ -6,4 +6,6 @@ class SplashActivity {
     // 위치정보
 
 
+
+    // 상처를 치료해줄 사람 어디 없나
 }
