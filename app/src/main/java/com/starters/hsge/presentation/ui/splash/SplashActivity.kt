@@ -6,4 +6,5 @@ class SplashActivity {
     // 위치정보
 
     //jay_test1
+    //jay_test2
 }
